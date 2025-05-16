@@ -172,7 +172,7 @@ cd projeto-analise-risco-credito</code></pre>
   </tr>
   <tr>
     <td>Ana Beatriz</td>
-    <td>UC23101592</td>
+    <td>2010024024</td>
     <td><a href="https://github.com/Anabamorim">@Anabamorim</a></td>
   </tr>
   <tr>
